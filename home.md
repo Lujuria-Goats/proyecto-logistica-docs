@@ -2,7 +2,7 @@
 title: Bienvenidos a la Documentación de Lujuria - Apex VIsion
 description: Bienvenido a nuestro portal oficial. Aquí encontrarás toda la información necesaria para el uso de nuestras plataformas.
 published: true
-date: 2025-12-14T15:49:21.567Z
+date: 2025-12-14T15:57:45.813Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-14T15:49:21.567Z
