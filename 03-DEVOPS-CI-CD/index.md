@@ -1,14 +1,14 @@
 ---
-title: DevOps CI/CD
-description: Pipelines de despliegue y gestión de infraestructura.
+title: DevOps & CI/CD
+description: Deployment pipelines and infrastructure management.
 ---
 
-# DevOps y CI/CD
+# DevOps and CI/CD
 
-Esta sección cubre los procesos de integración continua, despliegue continuo y configuración de servidores.
+This section covers continuous integration, continuous deployment, and server configuration processes.
 
-## Contenido
-- [Flujo CI/CD](./01-Flujo-CI-CD.md)
-- [Estrategia de Entornos](./02-Estrategia-Entornos.md)
-- [Configuración VPS](./03-VPS-Config.md)
-- [Observabilidad (Grafana/Prometheus)](./04-Observabilidad.md)
+## Contents
+- [CI/CD Flow](./01-CI-CD-Flow.md)
+- [Environment Strategy](./02-Environment-Strategy.md)
+- [VPS Config](./03-VPS-Config.md)
+- [Observability](./04-Observability.md)
