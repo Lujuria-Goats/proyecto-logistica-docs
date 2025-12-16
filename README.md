@@ -1,6 +1,6 @@
-# 🚀 CodeUp Riwi: Logistics System Documentation
+# 🚀 Apex Vision Logistic Riwi: Logistics System Documentation
 
-> **Project:** CodeUp Riwi: Beyond Limits — Competitive Version (Crudzaso)  
+> **Project:** Apex Vision Logistic Riwi: Beyond Limits — Competitive Version (Crudzaso)  
 > **Team:** Multidisciplinary (C# & Java)
 
 ## 📖 Overview
