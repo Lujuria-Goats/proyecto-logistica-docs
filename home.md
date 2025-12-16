@@ -1,6 +1,6 @@
 ---
-title: Bienvenidos a la Documentación de Lujuria
-description: Portal de ayuda y guías de usuario.
+title: Welcome to Apex Vision Logistics
+description: Official User Support Portal.
 published: true
 date: 2025-12-14T16:51:58.139Z
 tags: 
@@ -8,17 +8,32 @@ editor: markdown
 dateCreated: 2025-12-14T16:51:58.139Z
 ---
 
+# � Welcome to the Logistics System Help Center
 
-# Centro de Documentación
-
-Bienvenido a nuestro portal oficial. Aquí encontrarás toda la información necesaria para el uso de nuestras plataformas.
-
-### 📚 Manuales Disponibles
-Si eres un usuario final, puedes acceder a las guías interactivas aquí:
-
-* **[Manual de Usuario Principal](/04-manual-usuario/index)**: Guía completa de funciones.
-* **[App Móvil](/04-manual-usuario/mobile-app)**: Instrucciones para dispositivos iOS y Android.
-* **[Web Admin](/04-manual-usuario/web-admin)**: Gestión administrativa.
+Welcome to the official support portal for **Apex Vision Logistics**.
+Here you will find all the guides and manuals necessary to operate the platform efficiently.
 
 ---
-> Para soporte técnico adicional, contacta con nuestro equipo de desarrollo.
+
+## 📚 Available Manuals
+
+Select the guide that corresponds to your role:
+
+### 📱 [Mobile App Manual](/04-USER-MANUAL/Mobile-App/index)
+For field operators. Learn how to:
+*   Log in safely.
+*   Scan packages.
+*   Report incidents.
+
+### 🖥️ [Web Administration Guide](/04-USER-MANUAL/Web-Admin/index)
+For system administrators. Learn how to:
+*   Manage users and permissions.
+*   View shipments and metrics.
+*   Configure logic settings.
+
+### ❓ [General Help & Troubleshooting](/04-USER-MANUAL/index)
+*   **[Troubleshooting](/04-USER-MANUAL/02-Troubleshooting)**: Solutions to common problems and FAQ.
+
+---
+
+> **Need assistance?** If you cannot find the answer in these guides, please contact the support team through the official Discord channel.

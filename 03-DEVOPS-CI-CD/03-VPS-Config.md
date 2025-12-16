@@ -1,16 +1,16 @@
 ---
-title: Configuración VPS
-description: Docker compose y seguridad.
+title: VPS Configuration
+description: Docker compose and security.
 ---
 
-# Configuración de VPS
+# VPS Configuration
 
-Gestión del servidor y contenedorización.
+Server management and containerization.
 
 ## Docker
-- `docker-compose.yml`: Orquestación de contenedores.
-- Volúmenes y Redes.
+- `docker-compose.yml`: Container orchestration.
+- Volumes and Networks.
 
-## Seguridad
-- Gestión de Secretos.
-- Acceso SSH.
+## Security
+- Secrets management.
+- SSH access.
