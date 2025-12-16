@@ -2,7 +2,7 @@
 title: documnetacion aoex vision
 description: 
 published: true
-date: 2025-12-16T19:56:59.543Z
+date: 2025-12-16T20:01:18.054Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-16T19:56:59.543Z
